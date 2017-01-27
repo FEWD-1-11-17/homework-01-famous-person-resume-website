@@ -1,3 +1,28 @@
 body {
-    background-color: #F2F2F2
+    background-color: white;
+    font-family: 'Nunito Sans', sans-serif, georgia;
+    align-content: center;
+    margin: 30px;
+    height: 768px;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    border-bottom: 1px black solid
+}
+
+nav {
+    font-size: 24px;
+    text-align: center;
+    word-spacing: 15px;
+}
+
+nav a {
+    color: #BBB;
+    font-size: 24px;
+}
+
+.spacing {
+    word-spacing: 0px;
 }
