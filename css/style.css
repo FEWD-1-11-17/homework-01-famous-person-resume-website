@@ -1,15 +1,36 @@
 body {
     background-color: white;
     font-family: 'Nunito Sans', sans-serif, georgia;
-    align-content: center;
-    margin: 30px;
-    height: 768px;
+    margin: 0 auto;
+    height: 968px;
+    width: 1200px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border: black solid 3px;
+    margin-top: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.8;
+    word-spacing: 3px;
+    margin-top: 30px;
+    margin-left:;
 }
 
 h1 {
     font-size: 48px;
     text-align: center;
     border-bottom: 1px black solid
+}
+
+h2 {
+    margin-bottom: 0px;
 }
 
 nav {
@@ -20,9 +41,62 @@ nav {
 
 nav a {
     color: #BBB;
-    font-size: 24px;
+    font-size: 22px;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+ul {
+    line-height: 2;
+}
+
+ol {
+    line-height: 2;
+    padding-left: 45px;
 }
 
 .spacing {
     word-spacing: 0px;
 }
+
+.shorten {
+    width: 800px;
+    margin-left: 0px;
+}
+
+#capital {
+    font-size: 108px;
+    float: left;
+    margin: 0px;
+    line-height: 1.15;
+    margin: 10px 20px 0px 10px
+}
+
+.stanford {
+    float: right;
+    border: none;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.trophy {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    height: 350px;
+    width: 350px;
+}
+
+.course {
+    margin-top: 0px;
+    border: solid #BBB 3px;
+    width: 350px;
+    height: 350px;
+    margin-right: 10px;
+    float: right;
+}
+
+
