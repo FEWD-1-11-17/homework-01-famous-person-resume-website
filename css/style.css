@@ -25,13 +25,6 @@ p {
     margin-left:;
 }
 
-h1 {
-    font-size: 48px;
-    text-align: center;
-    border-bottom: 3px black double;
-    margin: 10px 0px 10px 0px;
-}
-
 h2 {
     margin-bottom: 0px;
 }
@@ -108,4 +101,12 @@ hr {
     width: 350px;
 }
 
+#logo {
+    width: 1200px;
+    height: 300px;
+    align-content: center;
+    float: none;
+    border: 3px solid black;
+    margin: 0px 0px 10px;
+}
 
