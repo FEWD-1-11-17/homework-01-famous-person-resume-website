@@ -85,18 +85,10 @@ ol {
 .trophy {
     float: right;
     margin-right: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
+    border-radius: 50%;
     height: 350px;
     width: 350px;
-}
-
-.course {
-    margin-top: 0px;
-    border: solid #BBB 3px;
-    width: 350px;
-    height: 350px;
-    margin-right: 10px;
-    float: right;
 }
 
 
