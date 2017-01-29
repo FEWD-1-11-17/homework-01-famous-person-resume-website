@@ -1,3 +1,5 @@
+/*Styling for individual elements*/
+
 body {
     background-color: white;
     font-family: 'Nunito Sans', sans-serif, georgia;
@@ -26,7 +28,8 @@ p {
 h1 {
     font-size: 48px;
     text-align: center;
-    border-bottom: 1px black solid
+    border-bottom: 3px black double;
+    margin: 10px 0px 10px 0px;
 }
 
 h2 {
@@ -40,7 +43,7 @@ nav {
 }
 
 nav a {
-    color: #BBB;
+    color: #BD2031;
     font-size: 22px;
 }
 
@@ -55,8 +58,14 @@ ul {
 
 ol {
     line-height: 2;
-    padding-left: 45px;
+    padding-left: 40px;
 }
+
+hr {
+    border-color: #BD2031;
+}
+
+/*Classes for images, <hrs>, and <nav>*/
 
 .spacing {
     word-spacing: 0px;
@@ -64,10 +73,17 @@ ol {
 
 .shorten {
     width: 800px;
-    margin-left: 0px;
+    margin: 0px;
+}
+
+.opacity {
+    opacity: .7%;
+    border-color: #DDDDDD;
+    border-style: dotted;
 }
 
 #capital {
+    color: #BD2031;
     font-size: 108px;
     float: left;
     margin: 0px;
@@ -77,9 +93,10 @@ ol {
 
 .stanford {
     float: right;
-    border: none;
-    margin-right: 0px;
-    margin-bottom: 20px;
+    border: 1px #BD2031 solid;
+    margin: 0px 0px 0px 20px;
+    padding: 10px;
+    border-radius: 5%;
 }
 
 .trophy {
