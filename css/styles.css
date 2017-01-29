@@ -1,0 +1,52 @@
+body {
+  background-color: #ffffcc;
+  font-family: Helvetica, sans-serif;
+  color: #333;
+  /*add border*/
+  padding: 50px;
+}
+
+nav {
+  text-align: center;
+  font-weight: 500;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #444;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 36px;
+}
+
+hr {
+  width: 75%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.profile {
+  padding: 25px;
+}
+
+.profile img {
+  width: 300px;
+  height: 168px;
+  border: 3px solid;
+  float: left;
+  margin-right: 25px;
+}
+
+.profile p {
+  font-size: 18px;
+  padding-left: 25px;
+  text-align: justify;
+}
+
+em {
+  font-style: italic;
+}
