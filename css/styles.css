@@ -1,0 +1,186 @@
+* {
+  font-family: Open Sans, Helvetica Neue, Arial;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-top: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+nav {
+ /* border: 1px solid black;*/
+  display: block;
+  align-content: right;
+  margin-bottom: 10px;
+}
+
+nav > a {
+  text-decoration: none;
+  color: darkgrey;
+}
+
+/*.header {
+  border: 1px solid black;
+}*/
+
+.name-title {
+  /*border: 1px solid black;*/
+  display: inline-block;
+}
+
+.contact-info {
+  /*border: 1px solid black;*/
+  display: inline-block;
+  float: right;
+}
+
+h3 {
+  text-transform: uppercase;
+  color: #f97e76;
+  font-weight: 400;
+  /*border: 1px solid black;*/
+  margin-left: 330px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.work-block-1, .work-block-2  {
+  /*border: 1px solid black;*/
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  overflow: hidden;
+}
+
+.co-location-date-1, .co-location-date-2 {
+  /*border: 1px solid black;*/
+  display: inline-block;
+  width: 325px;
+  float: left;
+  margin-right: 2px;
+}
+
+.co-location-date-1 > h4, h5, h6 {
+  text-align: right;
+  padding-right: 30px;
+}
+
+.co-location-date-2 > h4, h5, h6 {
+  text-align: right;
+  padding-right: 30px;
+}
+
+.title-description-1, .title-description-2 {
+  /*border: 1px solid black;*/
+  display: inline-block;
+  width: 600px;
+  float: left;
+  padding-right: 45px;
+}
+
+h1 {
+  color: #f97e76;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-weight: 200;
+  font-size: 20px;
+  color: #4A4A4A;
+  padding-bottom: 2px;
+}
+
+.title-2 {
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 20px;
+  color: #4A4A4A;
+  padding-bottom: 5px;
+}
+
+h4 {
+  /*border: 1px solid black;*/
+  /*background-color: #F1F1F1;*/
+  color: #4A4A4A;
+  font-weight: 400;
+  font-size: 20px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+
+h5 {
+  /*border: 1px solid black;*/
+  color: #4A4A4A;
+  font-weight: 200;
+  font-size: 14px;
+  margin-bottom: 2px;
+}
+
+
+h6 {
+  /*border: 1px solid black;*/
+  color: #4A4A4A;
+  font-weight: 200;
+  font-size: 12px;
+  margin-bottom: 2px;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.about-me img {
+  /*border: 1px solid black;*/
+  height: 250px;
+  width: 300px;
+  float: left;
+  margin-right: 2px;
+}
+
+.about-me-text {
+  /*border: 1px solid black;*/
+  display: inline-block;
+  width: 600px;
+  float: left;
+  padding-right: 45px;
+  margin-left: 23px;
+}
+
+.logos {
+  float: right;
+  margin-right: 4px;
+}
+
+.history {
+  /*border: 1px solid black;*/
+  height: 150px;
+  width: 170px;
+  margin-right: 15px;
+}
+
+.lifetime {
+  /*border: 1px solid black;*/
+  height: 150px;
+  width: 170px;
+  margin-right: 15px;
+}
+
+.aetv {
+  /*border: 1px solid black;*/
+  height: 150px;
+  width: 170px;
+  margin-right: 15px;
+}
+
+.fyi {
+  /*border: 1px solid black;*/
+  height: 150px;
+  width: 170px;
+}
+
