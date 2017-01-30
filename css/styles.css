@@ -184,3 +184,12 @@ p {
   width: 170px;
 }
 
+hr {
+  border: none;
+  height: 2px;
+  background: #D8D8D8;
+  width: 94%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
