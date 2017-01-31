@@ -1,0 +1,49 @@
+body {
+  background-color: #B3C3C0;
+  font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 100px;
+  margin-bottom: 0px;
+  margin-top: 30px;
+}
+
+nav {
+  text-align: center;
+  font-style: italic;
+  font-size: 50px;
+}
+
+hr {
+  size: 100px;
+}
+
+div {
+  text-align: center;
+}
+
+.happy {
+}
+
+.intpagetext {
+  text-align: center;
+}
+
+.mainpic {
+  border: solid;
+}
+
+.links {
+  background-image: -webkit-gradient( linear, left top, right top, 
+  color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f),
+  color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2),
+  color-stop(0.9, #ff2), color-stop(1, #f22) ); 
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22),
+  color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), 
+  color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2),
+  color-stop(1, #f22) ); color:transparent;
+  -webkit-background-clip: text; background-clip: text;
+}
