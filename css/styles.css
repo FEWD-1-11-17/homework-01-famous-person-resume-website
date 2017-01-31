@@ -26,7 +26,7 @@ h2 {
 
 h3 {
   font-family: 'Oswald', sans-serif;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 h4 {
@@ -36,12 +36,27 @@ h4 {
 p {
   padding-bottom: 50px;
   color: gray;
+  line-height: 20px;
 }
 
 nav a{
-  border-bottom: 1px #eee solid;
   font-size: 18px;
   margin-right: 20px;
   padding-bottom: 5px;
   float: right;
+  color: darkblue;
+}
+
+a:hover {
+  color: red;
+}
+
+.logo {
+  width: 200px;
+  float: right;
+  padding-left: 50px;
+}
+
+.clear {
+  clear: left;
 }
