@@ -11,9 +11,7 @@ body {
 }
 
 nav {
- /* border: 1px solid black;*/
-  display: block;
-  align-content: right;
+  /*border: 1px solid black;*/
   margin-bottom: 10px;
 }
 
@@ -22,9 +20,9 @@ nav > a {
   color: darkgrey;
 }
 
-/*.header {
-  border: 1px solid black;
-}*/
+.header {
+  /*border: 1px solid black;*/
+}
 
 .name-title {
   /*border: 1px solid black;*/
@@ -33,7 +31,6 @@ nav > a {
 
 .contact-info {
   /*border: 1px solid black;*/
-  display: inline-block;
   float: right;
 }
 
@@ -44,39 +41,33 @@ h3 {
   /*border: 1px solid black;*/
   margin-left: 330px;
   margin-bottom: 10px;
-  margin-top: 20px;
 }
 
-.work-block-1, .work-block-2  {
+.work-block {
   /*border: 1px solid black;*/
   padding-top: 10px; 
   padding-bottom: 10px;
   overflow: hidden;
 }
 
-.co-location-date-1, .co-location-date-2 {
+.co-location-date {
   /*border: 1px solid black;*/
-  display: inline-block;
-  width: 325px;
+  /*display: inline-block;*/
+  width: 300px;
   float: left;
   margin-right: 2px;
 }
 
-.co-location-date-1 > h4, h5, h6 {
+.co-location-date > h4, h5, h6 {
   text-align: right;
   padding-right: 30px;
 }
 
-.co-location-date-2 > h4, h5, h6 {
-  text-align: right;
-  padding-right: 30px;
-}
-
-.title-description-1, .title-description-2 {
+.title-description {
   /*border: 1px solid black;*/
-  display: inline-block;
+  /*display: inline-block;*/
   width: 600px;
-  float: left;
+  float: right;
   padding-right: 45px;
 }
 
@@ -105,7 +96,7 @@ h2 {
 
 h4 {
   /*border: 1px solid black;*/
-  /*background-color: #F1F1F1;*/
+  background-color: #F1F1F1;
   color: #4A4A4A;
   font-weight: 400;
   font-size: 20px;
@@ -146,10 +137,10 @@ p {
 .about-me-text {
   /*border: 1px solid black;*/
   display: inline-block;
-  width: 600px;
-  float: left;
-  padding-right: 45px;
-  margin-left: 23px;
+  width: 550px;
+  float: right;
+  padding-right: 80px;
+  margin-left: 10px;
 }
 
 .logos {
@@ -157,31 +148,12 @@ p {
   margin-right: 4px;
 }
 
-.history {
+.logos > img {
   /*border: 1px solid black;*/
-  height: 150px;
-  width: 170px;
-  margin-right: 15px;
-}
-
-.lifetime {
-  /*border: 1px solid black;*/
-  height: 150px;
-  width: 170px;
-  margin-right: 15px;
-}
-
-.aetv {
-  /*border: 1px solid black;*/
-  height: 150px;
-  width: 170px;
-  margin-right: 15px;
-}
-
-.fyi {
-  /*border: 1px solid black;*/
-  height: 150px;
-  width: 170px;
+  height: 100px;
+  width: 130px;
+  margin-right: 25px;
+  margin-top: 20px;
 }
 
 hr {
@@ -189,7 +161,7 @@ hr {
   height: 2px;
   background: #D8D8D8;
   width: 94%;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
