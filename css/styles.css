@@ -1,36 +1,34 @@
 body {
-  background-color: #ffffcc;
   font-family: Helvetica, sans-serif;
   color: #333;
-  /*add border*/
-  /*padding: 50px;*/
+  padding: 0px 50px 0px 50px;
 }
 
 header {
-  background-color: red;
+  border-bottom: 2px red solid;
   height: 100px;
 }
 
 header img {
   height: 100px;
-  width: 100px;
+  width: 110px;
   float: left;
 }
 
 h1 {
-  color: white;
+  color: red;
   text-align: center;
   font-size: 36px;
-  padding: 25px;
+  padding: 15px;
 }
 
 nav {
-  /*text-align: center;*/
   padding-top: 30px;
+  padding-left: 10px;
   padding-bottom: 30px;
   font-weight: 500;
   width: 100px;
-  background: white;
+  background-color: rgba(255, 255, 204, 0.4);
   float: left;
   line-height: 1.5em;
 }
@@ -43,11 +41,12 @@ a {
 
 .profile {
   padding: 25px;
+  border: 1px solid #BBB;
 }
 
 .profile img {
-  width: 300px;
-  height: 168px;
+  width: 200px;
+  height: 112px;
   border: 3px solid;
   float: left;
   margin-right: 25px;
@@ -55,7 +54,7 @@ a {
 }
 
 .profile p {
-  font-size: 18px;
+  font-size: 16px;
   padding-left: 25px;
   text-align: justify;
 }
