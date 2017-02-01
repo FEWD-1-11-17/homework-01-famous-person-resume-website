@@ -1,0 +1,29 @@
+*{
+	font-family: arial;
+	background-color: grey;
+}
+
+header{
+	font-style: bold;
+	background-color: white;
+	display: inline;
+		
+}
+
+
+nav{
+	float: right;
+}
+
+img{
+	height: 200px;
+	float: right;
+
+	
+}
+
+p{
+	margin-left: 5px;
+	clear: left;
+
+}
