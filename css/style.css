@@ -1,0 +1,162 @@
+body{
+  /*background-color: #FFFFF0;*/
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 300;
+  margin: 0px 0px;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+h1, h2, h3{
+  padding: 25px 30px 0px 30px;
+  text-transform: uppercase;
+  font-weight: 300;
+  margin-bottom: 0px;
+}
+
+p{
+  padding:0px 30px 0px 30px;
+  font-weight: 300;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+a:hover{
+  color:#D3850D;
+}
+
+.active{
+  color:#D3850D;
+  pointer-events: none;
+  cursor: default;
+}
+
+.one, .seven{
+  background-color: #089D9E;
+  color: white;
+}
+
+
+h1{
+  font-size: 50px;
+  letter-spacing: 1.5px;
+}
+
+header{
+  background-color: #191101;
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 200;
+  color: white;
+  padding-top: 15px;
+  
+}
+
+nav a{
+padding-left: 10px;
+padding-right: 10px;
+}
+
+
+
+  
+.profile div{
+  width: 49.9%;
+  height: 427px;
+  float: left;
+  margin: 0px 0px;
+  
+}
+
+
+.profile .one p{
+  font-size: 16px;
+  font-weight: 200;
+}
+
+
+.description div{
+  width: 49.8%;
+  height: 540px;
+  float: left;
+  margin: 0px 0px;
+}
+
+.three img{
+  width: 100%;
+  clear: left;
+}
+
+
+.resume div{
+  width: 33.3%;
+  height: 410px;
+  float: left;
+  margin: 0px 0px;
+}
+
+.resume div h2{
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  padding-top: 20px;
+
+}
+
+.resume div h3{
+  font-weight: 300;
+  margin-top: 0px; 
+  padding-top: 10px;
+}
+
+.five{
+  background-color: #D14410;
+  color: white;
+  clear: left;
+  margin-bottom: 0px;
+}
+
+
+.resume .five p{
+  font-weight: 200;
+  margin-top: 5px;  
+}
+
+.six img{
+  width: 100%;
+  margin-bottom: 0px;
+}
+
+
+.resume .seven ul{
+  list-style: none;
+}
+
+.resume .seven li{
+  padding-top: 5px;
+}
+
+.resume .seven li a{
+  font-size: 16px;
+  font-weight: 200;
+}
+
+footer{
+  background-color: #191101;
+  width: 100%;
+  height: 35px;
+  float: left;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 100;
+  font-size: 10px;
+  padding-top: 20px;
+
+}
