@@ -17,20 +17,24 @@ body {
 h1 {
   font-family: 'Oswald', sans-serif;
   padding-bottom: 10px;
+  color: #0F445B;
 }
 
 h2 {
   font-family: 'Oswald', sans-serif;
   padding-bottom: 10px;
+  color: #2F3537;
 }
 
 h3 {
   font-family: 'Oswald', sans-serif;
   padding-bottom: 5px;
+  color: #2F3537;
 }
 
 h4 {
   padding-bottom: 10px;
+  color: #0F445B;
 }
 
 p {
@@ -39,24 +43,26 @@ p {
   line-height: 20px;
 }
 
-nav a{
+nav a {
   font-size: 18px;
   margin-right: 20px;
   padding-bottom: 5px;
   float: right;
-  color: darkblue;
+  color: #2F3537;
 }
 
 a:hover {
-  color: red;
+  color: #096085;
+  border-bottom: #096085 3px solid;
+}
+
+a:active {
+  color: #096085;
+  border-bottom: #096085 3px solid;
 }
 
 .logo {
   width: 200px;
   float: right;
   padding-left: 50px;
-}
-
-.clear {
-  clear: left;
 }
