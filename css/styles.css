@@ -17,6 +17,12 @@ h3 {
   margin: 20px;
 }
 
+ol {
+  font-style: italic;
+  color: #058568;
+  text-transform: lowercase;
+}
+
 p {
   font-family: futura, sans-serif;
   line-height: 1.5;
