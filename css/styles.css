@@ -1,0 +1,100 @@
+body {
+  background-color: #ede8a7;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 0px;
+  font-family: 'Bahiana', cursive;
+}
+
+h2 {
+  font-size: 15px;
+  color: #6b3328;
+  text-transform: uppercase;
+  font-family: 'Roboto 700', sans-serif;
+  letter-spacing: 5px;
+}
+
+header {
+  width: 100%;
+  padding-left: 50px;
+  padding-top: 50px;
+
+}
+
+p, ul {
+  font-size: 20px;
+  line-height: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*couldn't figure out why I couldn't make this work
+
+*//*a.listlink {
+  font-size: 20px;
+  line-height: 30px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-decoration: none;
+}*/ 
+
+
+a.NormalLink {
+  font-size: 30px;
+  font-family: 'Bahiana', cursive;
+  color: #b28231;
+}
+
+a:hover {
+  color: #205529;
+}
+
+article {
+  border-left: 5px black solid;
+  width: 50%;
+  padding: 50px;
+  float: left;
+}
+
+aside {
+  width: 30%;
+  padding-left: 50px;
+  padding-top: 50px;
+  float: left;
+}
+
+footer {
+  float: left;
+  padding: 50px;
+}
+
+div#likes {
+  float: left;
+  align-content: center;
+  width: 40%;
+  padding: 50px;
+}
+
+div#dislikes {
+  float: left;
+  align-content: center;
+  border-left: 5px black solid;
+  width: 40%;
+  padding: 50px;
+}
+
+.clear {
+  clear: left;
+}
+
+#headshot {
+  width: 75%;
+  border: 5px black solid;
+}
+
+#icon {
+  width: 30%;
+  align-content: center;
+}
+
