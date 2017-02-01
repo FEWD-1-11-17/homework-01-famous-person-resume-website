@@ -39,7 +39,7 @@ h3 {
   color: #f97e76;
   font-weight: 400;
   /*border: 1px solid black;*/
-  margin-left: 315px;
+  margin-left: 425px;
   margin-bottom: 10px;
 }
 
@@ -139,13 +139,13 @@ p {
   display: inline-block;
   width: 550px;
   float: right;
-  padding-right: 80px;
+  padding-right: 100px;
   margin-left: 10px;
 }
 
 .logos {
   float: right;
-  margin-right: 4px;
+  margin-right: 20px;
 }
 
 .logos > img {
