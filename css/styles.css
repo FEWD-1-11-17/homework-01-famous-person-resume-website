@@ -1,0 +1,47 @@
+body{
+  font-family: georgia,garamond,serif;
+}
+
+nav{
+  text-align: center;
+  color: black;
+  font-size: 16pt;
+  margin: 10px;
+}
+
+img.hero{
+  width: 100%;
+  height: 300px;
+}
+
+img.profile{
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 10px;
+}
+
+hr{
+  clear: both;
+}
+
+#stats{
+  float: left;
+  margin: 10px;
+}
+
+img.action-pose{
+  width: 400px;
+  height: 600px;
+  margin: 10px;
+  float: left;
+}
+
+#interests{
+  float: left;
+  margin: 10px;
+}
+
+li{
+  margin: 10px;
+}
