@@ -1,0 +1,104 @@
+body  {
+  font-family: Verdana;
+  line-height: 1;
+  margin: 30px;
+  border-bottom: 5px solid #cccccc;
+  border-top: 5px solid #cccccc;
+  padding: 25px;
+  background: #f2f2f0;
+  color: #4E4A47;
+}
+
+header {
+  text-align: center;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  color: #4E4A47;
+}
+
+section {
+  line-height: 150%;
+  width: 67%;
+  float: left;
+  height: 40%;
+  padding: 5px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+p.bio {
+  font-size: 13px;
+  padding-left: 15px;
+}
+
+ul.bio {
+  font-size: 13px;
+  line-height: 150%;
+  padding-left: 30px;
+}
+
+img.bruce1 {
+  text-align: center;
+  float: right;
+  width: 30%;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 5px;
+  clear: both;
+}
+
+hr {
+  clear: both;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0; 
+}
+
+img.brucealbums {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding: 5px;
+  text-align: center;
+  float: right;
+}
+
+img.brucemedal {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 80px;
+  padding: 5px;
+  text-align: center;
+  float: left;
+}
+
+.albums {
+  line-height: 150%;
+  width: 60%;
+  float: left;
+  height: 40%;
+  padding: 5px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.awards {
+  line-height: 150%;
+  width: 60%;
+  float: right;
+  height: 40%;
+  padding: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
