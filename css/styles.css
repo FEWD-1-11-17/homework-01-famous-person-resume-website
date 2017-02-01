@@ -1,0 +1,40 @@
+img.main {
+  align-content: center;
+  height: 500px;
+  width: 500px;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+h3 {
+  font-style: italic;
+  color: #388E8E;
+  margin: 20px;
+}
+
+p {
+  font-family: futura, sans-serif;
+  line-height: 1.5;
+  margin-left: 20px;
+}
+
+img.tall {
+  float: right;
+  width: 356px;
+  padding: 20px;
+}
+
+img.exp {
+  float: left;
+  width: 40%;
+  padding: 15px;
+}
+
+nav {
+  text-align: center;
+}
