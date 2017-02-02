@@ -1,0 +1,116 @@
+    
+    header{
+
+        text-align:left;
+        height:20%;
+        padding-left:30px;
+        display:inline-block;
+
+    }
+
+    photos{
+
+        height:150px;
+        width:830px;
+        display:inline-block;
+        padding-top: 10px;
+        padding-bottom:10px;
+        padding-left:30px;
+        padding-right:10px;
+        margin-bottom:30px;
+        margin-left:30px;
+        clear:left;
+        clear:right;
+
+    }
+
+    article{
+
+        height:185px;
+        font-family: 'Neuton',serif;
+        font-size:18px;
+    }
+
+
+    h1{
+        color:pink;
+        font-size: 48px;
+        font-family: 'Bungee Shade', cursive;
+         
+    }
+
+    h2{
+
+        color:lightblue;
+        font-size:36;
+        font-family:'Space Mono',monospace;
+        font-weight: #400;
+        font-style:italic;
+    }
+
+    h3{
+
+        color:green
+        font-size:24;
+        font-family:'Mada',sans-serif;
+        font-weight:lighter;
+    }
+
+    p{
+
+        font-family: 'Neuton',serif;
+        font-size:18px;
+        color:#444;
+        height:185px;
+        width:830px;
+        text-align:justify;
+        -webkit-column-count: 2; /* Chrome, Safari, Opera */
+        -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+   }
+
+        body{
+        background-color:#eee;
+    }
+
+    .button{
+
+        border:1px;
+        font-family:'Space Mono',monospace;
+        font-weight:#700; 
+        background-color:lightgreen;
+        display:inline-block;
+        padding:10px 10px 10px 10px; 
+         -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s; 
+        width:775px;
+        height:20px;  
+        text-align:left;
+        padding-top:10px;
+        padding-bottom:10px;
+        float:bottom;
+        margin-top:20px;
+
+    }
+
+    .button:hover{
+
+        border:1px;
+        font-family:'Space Mono',monospace;
+        font-weight:#700; 
+        background-color:lightpink;
+        display:inline-block;
+        padding:10px 10px 10px 10px;
+        width:775px;
+        height:20px;    
+        text-align:left; 
+        padding-top:10px;
+        padding-bottom:10px;
+        float:bottom;
+        margin-top:20px;
+
+
+    }
+
+
+
+
