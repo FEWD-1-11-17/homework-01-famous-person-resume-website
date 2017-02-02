@@ -29,18 +29,17 @@ p, ul {
   font-family: 'Roboto', sans-serif;
 }
 
-/*couldn't figure out why I couldn't make this work
 
-*//*a.listlink {
+.ListLink {
   font-size: 20px;
   line-height: 30px;
   font-family: 'Roboto', sans-serif;
-  color: white;
+  color: orange;
   text-decoration: none;
-}*/ 
+} 
 
 
-a.NormalLink {
+a {
   font-size: 30px;
   font-family: 'Bahiana', cursive;
   color: #b28231;
