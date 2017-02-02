@@ -1,0 +1,122 @@
+body{
+  background-size: cover;
+  background-color: #f8f8ff;
+  color: #505769;
+  font-family: 'Rubik', sans-serif;
+}
+
+a.home {
+  color: #8d97aa;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  margin: 20px;
+}
+
+a.enter {
+  color: #8d97aa;
+  background-color: #f8f8ff;
+  text-decoration: none;
+  text-align: center;
+  font-weight: 500;
+  font-size: 24px;
+  width: 140px;
+  height: 40px;
+  border-radius: 50px;
+  margin: auto;
+  margin-top: 300px;
+  padding-top: 15px;
+  display: block;
+}
+
+a.enter:hover {
+  background-color: #505769;
+  color: #f8f8ff;
+}
+
+header {
+  font-size: 35px;
+  font-weight: 400;
+  text-align: center;
+  margin: 55px;
+}
+
+h1 {
+  font-size: 65px;
+  margin-bottom: 30px;
+}
+
+img {
+  float; right;
+  width: 600px;
+  height: auto;
+}
+
+nav a {
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 5px;
+  color: #505769;
+  text-decoration: none;
+  margin: 25px;
+}
+
+nav a img {
+  width: 35px;
+  height: auto;
+}
+
+nav a:hover {
+  color: #505769;
+  border-bottom: 2px solid #505769;
+}
+
+
+#bio {
+  display: inline-block;
+  text-align: center;
+  font-size: 20px;
+  width: 700px;
+  line-height: 30px;
+  margin: 50px;
+}
+
+div {
+  display: block;
+  background-color: #8d97aa;
+  border-radius: 5px;
+  color: #f8f8ff;
+  font-size: 20px;
+  text-align: center;
+  line-height: 30px;
+  padding: 15px;
+  height: 430px;
+  width: 300px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+}
+
+ul {
+  padding: 0px;
+  list-style: none;
+}
+
+.visual_design {
+  float: left;
+  width: 35%;
+  overflow: auto;
+  margin-right: 15px;
+}
+
+.product_design {
+  float: right;
+  width: 35%;
+  overflow: auto;
+  margin-left: 15px;
+}
+
+
+
+
+
