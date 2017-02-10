@@ -1,0 +1,113 @@
+/*Styling for individual elements*/
+
+body {
+    background-color: white;
+    font-family: 'Nunito Sans', sans-serif, georgia;
+    margin: 0 auto;
+    height: 968px;
+    width: 1200px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border: black solid 3px;
+    margin-top: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.8;
+    word-spacing: 3px;
+    margin-top: 30px;
+    margin-left:;
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+nav {
+    font-size: 24px;
+    text-align: center;
+    word-spacing: 15px;
+}
+
+nav a {
+    color: #BD2031;
+    font-size: 22px;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+ul {
+    line-height: 2;
+}
+
+ol {
+    line-height: 2;
+    padding-left: 40px;
+}
+
+hr {
+    border-color: #BD2031;
+}
+
+/*Classes for images, <hrs>, and <nav>*/
+
+.spacing {
+    word-spacing: 0px;
+}
+
+.shorten {
+    width: 800px;
+    margin: 0px;
+}
+
+.opacity {
+    opacity: .7;
+    border-color: #DDDDDD;
+    border-style: dotted;
+    border-width: 1px;
+}
+
+#capital {
+    color: #BD2031;
+    font-size: 108px;
+    float: left;
+    margin: 0px;
+    line-height: 1.15;
+    margin: 10px 20px 0px 10px
+}
+
+.stanford {
+    float: right;
+    border: 1px #BD2031 solid;
+    margin: 0px 0px 0px 20px;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+.trophy {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    border-radius: 50%;
+    height: 350px;
+    width: 350px;
+}
+
+#logo {
+    width: 1200px;
+    height: 300px;
+    align-content: center;
+    float: none;
+    border: 3px solid black;
+    margin: 0px 0px 10px;
+}
+
