@@ -70,9 +70,10 @@ hr {
 }
 
 .opacity {
-    opacity: .7%;
+    opacity: .7;
     border-color: #DDDDDD;
     border-style: dotted;
+    border-width: 1px;
 }
 
 #capital {
