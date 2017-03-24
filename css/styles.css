@@ -25,15 +25,12 @@ div {
   text-align: center;
 }
 
-.happy {
-}
-
 .intpagetext {
   text-align: center;
 }
 
 .mainpic {
-  border: solid;
+  border: 3px solid black;
 }
 
 .links {
